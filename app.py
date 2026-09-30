@@ -202,7 +202,7 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 
 # Display conversation history
-for msg in st.session_state.messages:
+for msg_idx, msg in enumerate(st.session_state.messages):
     with st.chat_message(msg["role"]):
         if msg["role"] == "user":
             st.markdown(msg["content"])
@@ -222,13 +222,29 @@ for msg in st.session_state.messages:
                         st.markdown(
                             f"""
                             <div class="citation-card-pdf">
-                                <strong>[{cit.id}] PDF Document (p. {cit.page}) - {cit.section}</strong><br/>
-                                <em>Chunk ID: <code>{cit.chunk_id}</code></em><br/>
+                                <strong>[{cit.id}] PDF Document (Page {cit.page}) - {cit.section}</strong><br/>
                                 💬 "{cit.quote}"
                             </div>
                             """,
                             unsafe_allow_html=True,
                         )
+                        with st.expander(f"📄 View PDF Page {cit.page} (Highlighted Line)", expanded=False):
+                            img_bytes = tools.get_highlighted_pdf_page_image(cit.page, cit.quote)
+                            if img_bytes:
+                                st.image(
+                                    img_bytes,
+                                    caption=f"PDF Page {cit.page} — Highlighted Excerpt: \"{cit.quote}\"",
+                                    use_container_width=True,
+                                )
+                                st.download_button(
+                                    "📥 Download Highlighted Page PNG",
+                                    data=img_bytes,
+                                    file_name=f"PDF_Page_{cit.page}_Highlighted.png",
+                                    mime="image/png",
+                                    key=f"dl_{cit.id}_{cit.page}_{msg_idx if 'msg_idx' in locals() else 0}",
+                                )
+                            else:
+                                st.info(f"Could not load page image for PDF Page {cit.page}.")
                     elif cit.type == "fda_label":
                         url_link = f'<a href="{cit.url}" target="_blank">View DailyMed Label ↗</a>' if cit.url else ""
                         st.markdown(

@@ -10,9 +10,12 @@ Also exports:
 - TOOL_DISPATCH: Dict mapping function name -> function object
 """
 
+import os
+import re
 import logging
 import httpx
 import chromadb
+import pymupdf
 from google import genai
 from google.genai.types import EmbedContentConfig
 
@@ -214,6 +217,7 @@ def openfda_label_lookup(drug_name: str, section: str = "drug_interactions") -> 
 
         if not results:
             return {
+                
                 "found": False,
                 "reason": f"No FDA label found for drug '{drug_name}'",
             }
@@ -299,6 +303,65 @@ def web_search(query: str, max_results: int = 4) -> list[dict] | dict:
     except Exception as e:
         log.error("Error in web_search: %s", e)
         return {"error": str(e)}
+
+
+def get_highlighted_pdf_page_image(
+    page_num: int, quote: str, pdf_path: str | None = None
+) -> bytes | None:
+    """Highlight a cited quote on a specific PDF page and return PNG image bytes.
+
+    Args:
+        page_num: 1-based page number.
+        quote: Text excerpt or sentence to search and highlight.
+        pdf_path: Optional path to PDF file.
+
+    Returns:
+        PNG image bytes of the highlighted page, or None on failure.
+    """
+    pdf_path = pdf_path or config.PDF_PATH
+    if not os.path.exists(pdf_path):
+        return None
+
+    try:
+        doc = pymupdf.open(pdf_path)
+        if not (1 <= page_num <= len(doc)):
+            doc.close()
+            return None
+
+        page = doc[page_num - 1]
+
+        # Clean search quote
+        clean_quote = re.sub(r"\s+", " ", quote).strip()
+
+        # 1. Try exact search
+        rects = page.search_for(clean_quote)
+
+        # 2. Fallback: search for first 6-8 words if exact match fails
+        if not rects and len(clean_quote.split()) >= 3:
+            words = clean_quote.split()
+            short_phrase = " ".join(words[: min(7, len(words))])
+            rects = page.search_for(short_phrase)
+
+        # 3. Fallback: search for first 3-4 words
+        if not rects and len(clean_quote.split()) >= 2:
+            short_phrase = " ".join(clean_quote.split()[:4])
+            rects = page.search_for(short_phrase)
+
+        # Highlight all matching rects
+        for rect in rects:
+            annot = page.add_highlight_annot(rect)
+            annot.set_colors(stroke=(1.0, 0.85, 0.0))  # Vibrant yellow highlight
+            annot.update()
+
+        # Render page to PNG at 150 DPI for crisp rendering
+        pix = page.get_pixmap(dpi=150)
+        img_bytes = pix.tobytes("png")
+        doc.close()
+        return img_bytes
+
+    except Exception as e:
+        log.error("Error generating highlighted PDF page image: %s", e)
+        return None
 
 
 # ---------------------------------------------------------------------------
