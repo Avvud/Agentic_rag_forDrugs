@@ -33,10 +33,11 @@ log = logging.getLogger(__name__)
 
 
 def _norm_text(text: str) -> str:
-    """Normalize text by removing hyphenated line breaks, collapsing whitespace, and lowercasing."""
+    """Normalize text by removing hyphenated line breaks, replacing non-alphanumeric punctuation with spaces, collapsing whitespace, and lowercasing."""
     if not text:
         return ""
     text = re.sub(r"-\s*\n\s*", "", text)
+    text = re.sub(r"[^\w\s]", " ", text)
     text = re.sub(r"\s+", " ", text)
     return text.strip().lower()
 
