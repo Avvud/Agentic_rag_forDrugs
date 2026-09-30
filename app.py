@@ -56,40 +56,73 @@ st.markdown(
     }
     
     .citation-card-pdf {
-        background-color: #f0fdf4;
-        border-left: 4px solid #16a34a;
-        padding: 0.8rem 1rem;
-        border-radius: 6px;
-        margin-bottom: 0.6rem;
-        font-size: 0.9rem;
+        background-color: #064e3b;
+        color: #ecfdf5 !important;
+        border-left: 5px solid #10b981;
+        padding: 0.9rem 1.1rem;
+        border-radius: 8px;
+        margin-bottom: 0.8rem;
+        font-size: 0.92rem;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
     }
     
     .citation-card-fda {
-        background-color: #eff6ff;
-        border-left: 4px solid #2563eb;
-        padding: 0.8rem 1rem;
-        border-radius: 6px;
-        margin-bottom: 0.6rem;
-        font-size: 0.9rem;
+        background-color: #1e3a8a;
+        color: #eff6ff !important;
+        border-left: 5px solid #3b82f6;
+        padding: 0.9rem 1.1rem;
+        border-radius: 8px;
+        margin-bottom: 0.8rem;
+        font-size: 0.92rem;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
     }
 
     .citation-card-web {
-        background-color: #fefce8;
-        border-left: 4px solid #ca8a04;
-        padding: 0.8rem 1rem;
-        border-radius: 6px;
-        margin-bottom: 0.6rem;
-        font-size: 0.9rem;
+        background-color: #78350f;
+        color: #fffbeb !important;
+        border-left: 5px solid #f59e0b;
+        padding: 0.9rem 1.1rem;
+        border-radius: 8px;
+        margin-bottom: 0.8rem;
+        font-size: 0.92rem;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    }
+
+    .citation-card-pdf *, .citation-card-fda *, .citation-card-web * {
+        color: inherit;
+    }
+
+    .citation-card-pdf strong, .citation-card-fda strong, .citation-card-web strong {
+        font-size: 0.98rem;
+        font-weight: 600;
+    }
+
+    .citation-card-pdf code, .citation-card-fda code, .citation-card-web code {
+        background: rgba(255, 255, 255, 0.15) !important;
+        color: #ffffff !important;
+        padding: 2px 6px;
+        border-radius: 4px;
+        font-family: monospace;
+    }
+
+    .citation-card-fda a, .citation-card-web a {
+        color: #93c5fd !important;
+        font-weight: 600 !important;
+        text-decoration: underline !important;
+    }
+    
+    .citation-card-fda a:hover, .citation-card-web a:hover {
+        color: #bfdbfe !important;
     }
     
     .disclaimer-footer {
         margin-top: 3rem;
         padding: 1.2rem;
-        background-color: #f8fafc;
-        border: 1px solid #e2e8f0;
+        background-color: rgba(255, 255, 255, 0.05);
+        border: 1px solid rgba(255, 255, 255, 0.1);
         border-radius: 8px;
         font-size: 0.85rem;
-        color: #475569;
+        color: #94a3b8;
         text-align: center;
     }
     
