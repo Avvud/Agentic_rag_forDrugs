@@ -1,0 +1,642 @@
+﻿Total pages: 10
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+--- RAW TEXT ---
+DRUG
+INTERACTIONS:
+WHAT YOU
+SHOULD KNOW
+Council on Family Health
+
+
+--- BLOCKS (x0,y0,x1,y1,text) ---
+  [25,82,133,154] 'DRUG'
+  [25,177,250,209] 'INTERACTIONS:'
+  [25,240,179,272] 'WHAT YOU'
+  [25,303,248,335] 'SHOULD KNOW'
+  [14,613,107,622] 'Council on Family Health'
+
+================================================================================
+PAGE 2
+================================================================================
+--- RAW TEXT ---
+Drug Interactions
+T
+here are more opportunities today than ever
+before to learn about your health and to take
+better care of yourself. It is also more 
+important than ever to know about the medicines
+you take. If you take several different medicines, 
+see more than one doctor or have certain health
+conditions, you and your doctors need to be aware
+of all the medicines you take to avoid potential 
+problems, such as drug interactions.
+Drug interactions may make your drug less effec-
+tive, cause unexpected side effects or increase the
+action of a particular drug. Some drug interactions
+can even be harmful to you. Reading the label every
+time you use a nonprescription or prescription drug
+and taking the time to learn about drug interactions
+may be critical to your health. You can reduce the
+risk of potentially harmful drug interactions and side
+effects with a little bit of knowledge and common sense.
+Drug interactions fall into three broad categories:
+ΓûáDrug-drug interactions occur when two
+or more drugs react with each other. This drug-
+drug interaction may cause you to experience an
+unexpected side effect. For example, mixing a
+drug you take to help you sleep (a sedative) and
+a drug you take for allergies (an antihistamine)
+can slow your reactions and make driving a car
+or operating machinery dangerous.
+ΓûáDrug-food/beverage interactions
+result from drugs reacting with foods or 
+beverages. For example, mixing alcohol with
+some drugs may cause you to feel tired or 
+slow your reactions.
+ΓûáDrug-condition interactions may occur
+when an existing medical condition makes 
+certain drugs potentially harmful. For example, 
+if you have high blood pressure you could 
+experience an unwanted reaction if you take 
+a nasal decongestant.
+
+
+--- BLOCKS (x0,y0,x1,y1,text) ---
+  [37,14,207,119] 'Drug Interactions T'
+  [37,72,267,187] 'here are more opportunities today than ever before to learn about your health and to take better car'
+  [37,196,270,311] 'Drug interactions may make your drug less effec- tive, cause unexpected side effects or increase the'
+  [37,320,258,331] 'Drug interactions fall into three broad categories:'
+  [37,340,260,351] 'ΓûáDrug-drug interactions occur when two'
+  [50,353,267,442] 'or more drugs react with each other. This drug- drug interaction may cause you to experience an unex'
+  [37,451,244,462] 'ΓûáDrug-food/beverage interactions'
+  [50,464,248,514] 'result from drugs reacting with foods or  beverages. For example, mixing alcohol with some drugs may'
+  [37,524,265,535] 'ΓûáDrug-condition interactions may occur'
+  [50,537,264,600] 'when an existing medical condition makes  certain drugs potentially harmful. For example,  if you ha'
+
+================================================================================
+PAGE 3
+================================================================================
+--- RAW TEXT ---
+O
+ver-the-counter
+(OTC) drug
+labels contain
+information about ingre-
+dients, uses, warnings
+and directions that is
+important to read and
+understand. The label
+also includes important
+information about possi-
+ble drug interactions. Further, drug labels may change as
+new information becomes known. ThatΓÇÖs why itΓÇÖs especially
+important to read the label every time you use a drug. 
+The ΓÇ£Active IngredientsΓÇ¥ and ΓÇ£PurposeΓÇ¥ sections list:
+Γûáthe name and amount of each active ingredient 
+Γûáthe purpose of each active ingredient
+The ΓÇ£UsesΓÇ¥ section of the label:
+Γûátells you what the drug is used for
+Γûáhelps you find the best drug for your specific symptoms
+The ΓÇ£WarningsΓÇ¥ section of the label provides important
+drug interaction and precaution information such as:
+Γûáwhen to talk to a doctor or pharmacist before use
+Γûáthe medical conditions that may make the drug less
+effective or not safe
+Γûáunder what circumstances the drug should not be used
+Γûáwhen to stop taking the drug
+The ΓÇ£DirectionsΓÇ¥ section of the label tells you:
+Γûáthe length of time and the amount of the product
+that you may safely use
+Γûáany special instructions on how to use the product
+The ΓÇ£Other InformationΓÇ¥ section of the label tells you:
+Γûárequired information about certain ingredients,
+such as sodium content, for people with dietary
+restrictions or allergies
+The ΓÇ£Inactive IngredientsΓÇ¥ section of the label tells you:
+Γûáthe name of each inactive ingredient (such as 
+colorings, binders, etc.)
+The ΓÇ£Questions?ΓÇ¥ or ΓÇ£Questions or Comments?ΓÇ¥ 
+section of the label (if included):
+Γûáprovides telephone numbers of a source to answer
+questions about the product
+Drug
+Interactions
+and Over-
+the-Counter
+Medicines
+
+
+--- BLOCKS (x0,y0,x1,y1,text) ---
+  [144,12,184,75] 'O'
+  [15,28,259,195] 'ver-the-counter (OTC) drug labels contain information about ingre- dients, uses, warnings and direct'
+  [14,204,248,241] 'The ΓÇ£Active IngredientsΓÇ¥ and ΓÇ£PurposeΓÇ¥ sections list: Γûáthe name and amount of each active ingredient'
+  [14,250,254,287] 'The ΓÇ£UsesΓÇ¥ section of the label: Γûátells you what the drug is used for Γûáhelps you find the best drug '
+  [14,296,258,346] 'The ΓÇ£WarningsΓÇ¥ section of the label provides important drug interaction and precaution information s'
+  [14,348,258,385] 'effective or not safe Γûáunder what circumstances the drug should not be used Γûáwhen to stop taking the'
+  [14,395,245,419] 'The ΓÇ£DirectionsΓÇ¥ section of the label tells you: Γûáthe length of time and the amount of the product'
+  [14,421,247,445] 'that you may safely use Γûáany special instructions on how to use the product'
+  [14,454,250,478] 'The ΓÇ£Other InformationΓÇ¥ section of the label tells you: Γûárequired information about certain ingredie'
+  [28,480,240,504] 'such as sodium content, for people with dietary restrictions or allergies'
+  [14,513,248,537] 'The ΓÇ£Inactive IngredientsΓÇ¥ section of the label tells you: Γûáthe name of each inactive ingredient (su'
+  [28,539,133,550] 'colorings, binders, etc.)'
+  [14,559,253,596] 'The ΓÇ£Questions?ΓÇ¥ or ΓÇ£Questions or Comments?ΓÇ¥  section of the label (if included): Γûáprovides telephon'
+  [28,598,152,609] 'questions about the product'
+  [15,14,131,142] 'Drug Interactions and Over- the-Counter Medicines'
+
+================================================================================
+PAGE 4
+================================================================================
+--- RAW TEXT ---
+T
+alk to your doctor or
+pharmacist about the
+drugs you take. When
+your doctor prescribes a
+new drug, discuss all OTC
+and prescription drugs,
+dietary supplements, vita-
+mins, botanicals, minerals
+and herbals you take, as
+well as the foods you eat.
+Ask your pharmacist for the
+package insert for each prescription drug you take.
+The package insert provides more information about
+potential drug interactions.
+Before taking a drug, ask your doctor or pharmacist
+the following questions:
+ΓûáCan I take it with other drugs? 
+ΓûáShould I avoid certain foods, beverages or other
+products? 
+ΓûáWhat are possible drug interaction signs I should
+know about? 
+ΓûáHow will the drug work in my body? 
+ΓûáIs there more information available about the
+drug or my condition (on the Internet or in health
+and medical literature)?
+Know how to take drugs safely and responsibly.
+Remember, the drug label will tell you:
+Γûáwhat the drug is used for
+Γûáhow to take the drug 
+Γûáhow to reduce the risk of drug interactions and
+unwanted side effects
+If you still have questions after reading the drug
+product label, ask your doctor or pharmacist for
+more information.
+Learning
+More About
+Drug
+Interactions 
+
+
+--- BLOCKS (x0,y0,x1,y1,text) ---
+  [144,30,175,93] 'T'
+  [37,46,270,226] 'alk to your doctor or pharmacist about the drugs you take. When your doctor prescribes a new drug, d'
+  [37,235,268,285] 'Before taking a drug, ask your doctor or pharmacist the following questions: ΓûáCan I take it with oth'
+  [37,287,266,311] 'products?  ΓûáWhat are possible drug interaction signs I should'
+  [37,313,249,350] 'know about?  ΓûáHow will the drug work in my body?  ΓûáIs there more information available about the'
+  [47,352,268,376] 'drug or my condition (on the Internet or in health and medical literature)?'
+  [37,385,257,448] 'Know how to take drugs safely and responsibly. Remember, the drug label will tell you: Γûáwhat the dru'
+  [47,450,144,461] 'unwanted side effects'
+  [37,470,252,507] 'If you still have questions after reading the drug product label, ask your doctor or pharmacist for '
+  [23,30,138,132] 'Learning More About Drug Interactions'
+
+================================================================================
+PAGE 5
+================================================================================
+--- RAW TEXT ---
+R
+emember that different OTC drugs may 
+contain the same active ingredient. If you
+are taking more than one OTC drug, pay
+attention to the active ingredients used in the 
+products to avoid taking too much of a particular
+ingredient. Under certain circumstances ΓÇö such as
+if you are pregnant or breast-feeding ΓÇö you should
+talk to your doctor before you take any medicine.
+Also, make sure to know what ingredients are 
+contained in the medicines you take to avoid 
+possible allergic reactions.
+The following are examples of drug interaction warn-
+ings that you may see on certain OTC drug products.
+These examples do not include all of the warnings
+for the listed types of products and should not take
+the place of reading the actual product label.
+Category
+Acid
+Reducers 
+H2 Receptor
+Antagonists
+(drugs that
+prevent or
+relieve heart-
+burn associ-
+ated with acid
+indigestion
+and sour
+stomach)
+Antacids
+(drugs for
+relief of acid
+indigestion,
+heartburn
+and/or sour
+stomach) 
+Drug Interaction Information
+For products containing 
+cimetidine, ask a doctor or
+pharmacist before use if 
+you are: 
+Γûá taking theophylline (oral asthma
+drug), warfarin (blood thinning
+drug) or phenytoin (seizure drug)
+Ask a doctor or pharmacist
+before use if you are: 
+Γûá allergic to milk or milk products
+if the product contains more than
+5 grams lactose in a maximum
+daily dose
+Γûá taking a prescription drug
+Ask a doctor before use if 
+you have:
+Γûá kidney disease
+
+
+--- BLOCKS (x0,y0,x1,y1,text) ---
+  [37,43,72,106] 'R'
+  [37,59,267,200] 'emember that different OTC drugs may  contain the same active ingredient. If you are taking more tha'
+  [37,209,272,272] 'The following are examples of drug interaction warn- ings that you may see on certain OTC drug produ'
+  [37,279,82,288] 'Category'
+  [37,301,89,325] 'Acid Reducers'
+  [37,330,92,354] 'H2 Receptor Antagonists'
+  [37,360,101,462] '(drugs that prevent or relieve heart- burn associ- ated with acid indigestion and sour stomach)'
+  [37,476,81,487] 'Antacids'
+  [37,493,95,569] '(drugs for relief of acid indigestion, heartburn and/or sour stomach)'
+  [115,280,257,289] 'Drug Interaction Information'
+  [115,301,269,364] 'For products containing  cimetidine, ask a doctor or pharmacist before use if  you are:  Γûá taking th'
+  [125,366,273,390] 'drug), warfarin (blood thinning drug) or phenytoin (seizure drug)'
+  [115,475,268,513] 'Ask a doctor or pharmacist before use if you are:  Γûá allergic to milk or milk products'
+  [115,515,274,565] 'if the product contains more than 5 grams lactose in a maximum daily dose Γûá taking a prescription dr'
+  [115,571,254,608] 'Ask a doctor before use if  you have: Γûá kidney disease'
+
+================================================================================
+PAGE 6
+================================================================================
+--- RAW TEXT ---
+Category
+Antiemetics
+(drugs for 
+prevention or
+treatment of 
+nausea, vomiting
+or dizziness 
+associated with
+motion sickness) 
+Antihistamines
+(drugs that 
+temporarily
+relieve runny
+nose or reduce
+sneezing, itching
+of the nose or
+throat, and itchy
+watery eyes due
+to hay fever or
+other upper 
+respiratory 
+problems)  
+Drug Interaction Information
+Ask a doctor or pharmacist
+before use if you are:
+Γûá taking sedatives or tranquilizers 
+Ask a doctor before use if 
+you have:
+Γûá a breathing problem, such 
+as emphysema or chronic 
+bronchitis 
+Γûá glaucoma
+Γûá difficulty in urination due to 
+an enlarged prostate gland
+When using this product:
+Γûá avoid alcoholic beverages 
+Ask a doctor or pharmacist
+before use if you are taking: 
+Γûá sedatives or tranquilizers
+Γûá a prescription drug for high blood
+pressure or depression
+Ask a doctor before use if 
+you have:
+Γûá glaucoma or difficulty in 
+urination due to an enlarged
+prostate gland
+Γûá breathing problems, such as
+emphysema, chronic bronchitis or
+asthma
+When using this product:    
+Γûá alcohol, sedatives and tranquiliz-
+ers may increase drowsiness
+Γûá avoid alcoholic beverages
+
+
+--- BLOCKS (x0,y0,x1,y1,text) ---
+  [14,55,59,64] 'Category'
+  [14,79,75,90] 'Antiemetics'
+  [14,95,93,184] '(drugs for  prevention or treatment of  nausea, vomiting or dizziness  associated with motion sickne'
+  [14,271,91,282] 'Antihistamines'
+  [14,288,89,442] '(drugs that  temporarily relieve runny nose or reduce sneezing, itching of the nose or throat, and i'
+  [108,55,249,64] 'Drug Interaction Information'
+  [108,79,263,116] 'Ask a doctor or pharmacist before use if you are: Γûá taking sedatives or tranquilizers'
+  [108,121,246,158] 'Ask a doctor before use if  you have: Γûá a breathing problem, such'
+  [108,160,244,210] 'as emphysema or chronic  bronchitis  Γûá glaucoma Γûá difficulty in urination due to'
+  [117,212,236,223] 'an enlarged prostate gland'
+  [108,229,237,253] 'When using this product: Γûá avoid alcoholic beverages'
+  [108,271,267,321] 'Ask a doctor or pharmacist before use if you are taking:  Γûá sedatives or tranquilizers Γûá a prescript'
+  [117,323,220,334] 'pressure or depression'
+  [108,339,246,376] 'Ask a doctor before use if  you have: Γûá glaucoma or difficulty in'
+  [108,378,243,415] 'urination due to an enlarged prostate gland Γûá breathing problems, such as'
+  [117,417,268,441] 'emphysema, chronic bronchitis or asthma'
+  [108,447,264,471] 'When using this product:     Γûá alcohol, sedatives and tranquiliz-'
+  [108,473,246,497] 'ers may increase drowsiness Γûá avoid alcoholic beverages'
+
+================================================================================
+PAGE 7
+================================================================================
+--- RAW TEXT ---
+Category
+Antitussives
+Cough Medicine 
+(drugs that 
+temporarily reduce
+cough due to 
+minor throat and
+bronchial irritation
+as may occur with
+a cold) 
+Bronchodilators
+(drugs for the 
+temporary relief 
+of shortness of
+breath, tightness of
+chest and wheezing
+due to bronchial
+asthma)  
+Laxatives
+(drugs for the 
+temporary relief 
+of constipation) 
+Nasal
+Decongestants  
+(drugs for the 
+temporary relief of
+nasal congestion
+due to a cold, hay
+fever or other
+upper respiratory
+allergies)
+Drug Interaction Information
+Ask a doctor or pharmacist
+before use if you are: 
+Γûá taking sedatives or tranquilizers
+Ask a doctor before use if 
+you have:
+Γûá glaucoma or difficulty in 
+urination due to an enlarged
+prostate gland
+Ask a doctor before use if you:
+Γûá have heart disease, high blood
+pressure, thyroid disease, 
+diabetes or difficulty in urination
+due to an enlarged prostate gland
+Γûá have ever been hospitalized 
+for asthma or are taking a 
+prescription drug for asthma
+Ask a doctor before use if 
+you have:
+Γûá kidney disease and the laxative
+contains phosphates, potassium or
+magnesium
+Γûá stomach pain, nausea or 
+vomiting
+Ask a doctor before use if you:
+Γûá have heart disease, high blood
+pressure, thyroid disease, 
+diabetes or difficulty in 
+urination due to an enlarged
+prostate gland
+
+
+--- BLOCKS (x0,y0,x1,y1,text) ---
+  [16,55,61,64] 'Category'
+  [16,79,79,90] 'Antitussives'
+  [16,95,90,106] 'Cough Medicine'
+  [16,112,103,201] '(drugs that  temporarily reduce cough due to  minor throat and bronchial irritation as may occur wit'
+  [16,213,100,224] 'Bronchodilators'
+  [16,230,105,319] '(drugs for the  temporary relief  of shortness of breath, tightness of chest and wheezing due to bro'
+  [16,333,65,344] 'Laxatives'
+  [16,350,93,387] '(drugs for the  temporary relief  of constipation)'
+  [16,437,100,461] 'Nasal Decongestants'
+  [16,470,102,559] '(drugs for the  temporary relief of nasal congestion due to a cold, hay fever or other upper respira'
+  [112,55,253,64] 'Drug Interaction Information'
+  [112,79,265,116] 'Ask a doctor or pharmacist before use if you are:  Γûá taking sedatives or tranquilizers'
+  [112,121,250,158] 'Ask a doctor before use if  you have: Γûá glaucoma or difficulty in'
+  [122,160,248,184] 'urination due to an enlarged prostate gland'
+  [112,212,271,236] 'Ask a doctor before use if you: Γûá have heart disease, high blood'
+  [112,238,271,288] 'pressure, thyroid disease,  diabetes or difficulty in urination due to an enlarged prostate gland Γûá '
+  [122,290,250,314] 'for asthma or are taking a  prescription drug for asthma'
+  [112,333,260,370] 'Ask a doctor before use if  you have: Γûá kidney disease and the laxative'
+  [112,372,276,409] 'contains phosphates, potassium or magnesium Γûá stomach pain, nausea or'
+  [122,411,159,422] 'vomiting'
+  [112,436,271,460] 'Ask a doctor before use if you: Γûá have heart disease, high blood'
+  [122,462,248,512] 'pressure, thyroid disease,  diabetes or difficulty in  urination due to an enlarged prostate gland'
+
+================================================================================
+PAGE 8
+================================================================================
+--- RAW TEXT ---
+Category
+Nicotine
+Replacement
+Products
+(drugs that 
+reduce 
+withdrawal 
+symptoms 
+associated with
+quitting smoking,
+including nicotine
+craving)
+Nighttime Sleep
+Aids
+(drugs for relief 
+of occasional
+sleeplessness)
+Drug Interaction Information
+Ask a doctor before use if you:
+Γûá have high blood pressure not con-
+trolled by medication
+Γûá have heart disease or have had a
+recent heart attack or irregular
+heartbeat since nicotine can
+increase your heart rate
+Ask a doctor or pharmacist
+before use if you are:
+Γûá taking a prescription drug for
+depression or asthma (your dose
+may need to be adjusted)
+Γûá using a prescription non-nicotine
+stop-smoking drug
+Do not use:
+Γûá if you continue to smoke, chew
+tobacco, use snuff or use other
+nicotine-containing products
+Ask a doctor or pharmacist
+before use if you are:
+Γûá taking sedatives or tranquilizers
+Ask a doctor before use if 
+you have:
+Γûá a breathing problem such 
+as emphysema or chronic 
+bronchitis
+Γûá glaucoma
+Γûá difficulty in urination due to 
+an enlarged prostate gland
+When using this product:
+Γûá avoid alcoholic beverages
+
+
+--- BLOCKS (x0,y0,x1,y1,text) ---
+  [14,55,58,64] 'Category'
+  [14,79,81,116] 'Nicotine Replacement Products'
+  [14,122,94,224] '(drugs that  reduce  withdrawal  symptoms  associated with quitting smoking, including nicotine crav'
+  [14,332,96,356] 'Nighttime Sleep Aids'
+  [14,361,88,398] '(drugs for relief  of occasional sleeplessness)'
+  [109,55,250,64] 'Drug Interaction Information'
+  [109,79,270,103] 'Ask a doctor before use if you: Γûá have high blood pressure not con-'
+  [109,105,266,129] 'trolled by medication Γûá have heart disease or have had a'
+  [118,131,259,168] 'recent heart attack or irregular heartbeat since nicotine can increase your heart rate'
+  [109,173,251,210] 'Ask a doctor or pharmacist before use if you are: Γûá taking a prescription drug for'
+  [109,212,266,249] 'depression or asthma (your dose may need to be adjusted) Γûá using a prescription non-nicotine'
+  [118,251,200,262] 'stop-smoking drug'
+  [109,268,256,292] 'Do not use: Γûá if you continue to smoke, chew'
+  [118,294,256,318] 'tobacco, use snuff or use other nicotine-containing products'
+  [109,330,261,367] 'Ask a doctor or pharmacist before use if you are: Γûá taking sedatives or tranquilizers'
+  [109,373,247,410] 'Ask a doctor before use if  you have: Γûá a breathing problem such'
+  [109,412,246,462] 'as emphysema or chronic  bronchitis Γûá glaucoma Γûá difficulty in urination due to'
+  [118,464,238,475] 'an enlarged prostate gland'
+  [109,480,239,504] 'When using this product: Γûá avoid alcoholic beverages'
+
+================================================================================
+PAGE 9
+================================================================================
+--- RAW TEXT ---
+Category
+Pain Relievers
+(drugs for the
+temporary relief
+of minor body
+aches, pains and
+headaches)      
+Stimulants
+(drugs that help
+restore mental
+alertness or
+wakefulness 
+during fatigue 
+or drowsiness) 
+Topical Acne
+Products
+(drugs for the
+treatment of
+acne)       
+Drug Interaction Information
+Ask a doctor before taking 
+if you:
+Γûá consume three or more alcohol-
+containing drinks per day
+(The following ingredients are found
+in different OTC pain relievers: acet-
+aminophen, aspirin, ibuprofen, keto-
+profen, magnesium salicylate and
+naproxen. It is important to read the
+label of pain reliever products to
+learn about different drug interaction
+warnings for each ingredient.)
+When using this product:
+Γûá limit the use of foods, beverages
+and other drugs that have 
+caffeine ΓÇô too much caffeine can
+cause nervousness, irritability,
+sleeplessness and occasional rapid
+heartbeat
+Γûá be aware that the recommended
+dose of this product contains about
+as much caffeine as a cup of coffee
+When using this product:
+Γûá increased dryness or irritation of
+the skin may occur immediately
+following use of this product or if
+you are using other topical acne
+drugs at the same time. If this
+occurs, only one drug should be
+used unless directed by your 
+doctor
+
+
+--- BLOCKS (x0,y0,x1,y1,text) ---
+  [9,55,53,64] 'Category'
+  [9,79,83,90] 'Pain Relievers'
+  [9,95,85,158] '(drugs for the temporary relief of minor body aches, pains and headaches)'
+  [9,256,64,267] 'Stimulants'
+  [9,272,82,348] '(drugs that help restore mental alertness or wakefulness  during fatigue  or drowsiness)'
+  [9,412,74,436] 'Topical Acne Products'
+  [9,441,71,478] '(drugs for the treatment of acne)'
+  [96,55,237,64] 'Drug Interaction Information'
+  [96,79,248,116] 'Ask a doctor before taking  if you: Γûá consume three or more alcohol-'
+  [105,118,219,129] 'containing drinks per day'
+  [96,135,264,237] '(The following ingredients are found in different OTC pain relievers: acet- aminophen, aspirin, ibup'
+  [96,255,249,279] 'When using this product: Γûá limit the use of foods, beverages'
+  [96,281,261,357] 'and other drugs that have  caffeine ΓÇô too much caffeine can cause nervousness, irritability, sleeple'
+  [105,359,262,383] 'dose of this product contains about as much caffeine as a cup of coffee'
+  [96,412,253,436] 'When using this product: Γûá increased dryness or irritation of'
+  [105,438,253,527] 'the skin may occur immediately following use of this product or if you are using other topical acne '
+
+================================================================================
+PAGE 10
+================================================================================
+--- RAW TEXT ---
+This information is brought to you by the
+Council on Family Health in cooperation with
+the National Consumers League and 
+the U.S. Food and Drug Administration.
+Council on Family Health
+www.cfhinfo.org
+Food and Drug Administration
+www.fda.gov
+National Consumers League
+www.nclnet.org
+To order one copy of this booklet, write: 
+Federal Citizen Information Center
+Drug Interactions: What You Should Know
+Pueblo, CO 81009
+www.pueblo.gsa.gov
+3/2004
+
+
+--- BLOCKS (x0,y0,x1,y1,text) ---
+  [53,36,235,47] 'This information is brought to you by the'
+  [43,56,245,67] 'Council on Family Health in cooperation with'
+  [64,76,227,87] 'the National Consumers League and'
+  [56,96,232,107] 'the U.S. Food and Drug Administration.'
+  [96,194,189,203] 'Council on Family Health'
+  [107,206,178,217] 'www.cfhinfo.org'
+  [159,293,269,302] 'Food and Drug Administration'
+  [19,293,242,315] 'www.fda.gov National Consumers League'
+  [37,304,106,315] 'www.nclnet.org'
+  [56,411,235,422] 'To order one copy of this booklet, write:'
+  [51,431,237,454] 'Federal Citizen Information Center Drug Interactions: What You Should Know'
+  [100,456,188,480] 'Pueblo, CO 81009 www.pueblo.gsa.gov'
+  [37,601,69,612] '3/2004'

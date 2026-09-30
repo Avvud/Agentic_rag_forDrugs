@@ -1,0 +1,47 @@
+﻿Total chunks in Chroma: 27
+
+chunk_id             | page | section                             |   len | first 120 chars
+--------------------------------------------------------------------------------------------------------------
+PDF-p2-c1            |    2 | Drug Interactions Overview          |   800 | Drug Interactions T here are more opportunities today than ever before to learn about your health and to take better car
+PDF-p2-c2            |    2 | Drug Interactions Overview          |   204 | the time to learn about drug interactions may be critical to your health. You can reduce the risk of potentially harmful
+PDF-p2-c3            |    2 | Drug Interactions Overview          |   800 | entially harmful drug interactions and side effects with a little bit of knowledge and common sense. Drug interactions f
+PDF-p2-c4            |    2 | Drug Interactions Overview          |   227 | ndition interactions may occur when an existing medical condition makes certain drugs potentially harmful. For example, 
+PDF-p2-c5            |    2 | Drug Interactions Overview          |   100 | have high blood pressure you could experience an unwanted reaction if you take a nasal decongestant.
+PDF-p3-c1            |    3 | OTC Drug Labels                     |   800 | ver-the-counter (OTC) drug labels contain information about ingredients, uses, warnings and directions that is important
+PDF-p3-c2            |    3 | OTC Drug Labels                     |   150 | interaction and precaution information such as: Γûáwhen to talk to a doctor or pharmacist before use Γûáthe medical conditio
+PDF-p3-c3            |    3 | OTC Drug Labels                     |   800 | hen to talk to a doctor or pharmacist before use Γûáthe medical conditions that may make the drug less effective or not sa
+PDF-p3-c4            |    3 | OTC Drug Labels                     |   123 | estions?ΓÇ¥ or ΓÇ£Questions or Comments?ΓÇ¥ section of the label (if included): Γûáprovides telephone numbers of a source to ans
+PDF-p3-c5            |    3 | OTC Drug Labels                     |   127 | or Comments?ΓÇ¥ section of the label (if included): Γûáprovides telephone numbers of a source to answer questions about the 
+PDF-p4-c1            |    4 | Drug Interactions Overview          |   799 | alk to your doctor or pharmacist about the drugs you take. When your doctor prescribes a new drug, discuss all OTC and p
+PDF-p4-c2            |    4 | Drug Interactions Overview          |   279 | vailable about the drug or my condition (on the Internet or in health and medical literature)? Know how to take drugs sa
+PDF-p4-c3            |    4 | Drug Interactions Overview          |   240 | u: Γûáwhat the drug is used for Γûáhow to take the drug Γûáhow to reduce the risk of drug interactions and unwanted side effec
+PDF-p5-c1            |    5 | Acid Reducers/H2 Blockers           |  1418 | Acid Reducers/H2 Blockers R emember that different OTC drugs may contain the same active ingredient. If you are taking m
+PDF-p5-c2            |    5 | Antacids                            |   294 | Antacids (drugs for relief of acid indigestion, heartburn and/or sour stomach) if the product contains more than 5 grams
+PDF-p5-c3            |    5 | OTC Drug Interaction Examples Intro |   777 | emember that different OTC drugs may contain the same active ingredient. If you are taking more than one OTC drug, pay a
+PDF-p6-c1            |    6 | Antiemetics                         |  1094 | Antiemetics Drug Interaction Information Ask a doctor or pharmacist before use if you are: Γûá taking sedatives or tranqui
+PDF-p6-c2            |    6 | Antihistamines                      |   563 | Antihistamines (drugs that temporarily relieve runny nose or reduce sneezing, itching of the nose or throat, and itchy w
+PDF-p7-c1            |    7 | Antitussives                        |  1211 | Antitussives Drug Interaction Information Ask a doctor or pharmacist before use if you are: Γûá taking sedatives or tranqu
+PDF-p7-c2            |    7 | Bronchodilators                     |  1214 | Bronchodilators Drug Interaction Information Ask a doctor or pharmacist before use if you are: Γûá taking sedatives or tra
+PDF-p7-c3            |    7 | Laxatives                           |  1208 | Laxatives Drug Interaction Information Ask a doctor or pharmacist before use if you are: Γûá taking sedatives or tranquili
+PDF-p7-c4            |    7 | Nasal Decongestants                 |   358 | Nasal Decongestants pressure, thyroid disease, diabetes or difficulty in urination due to an enlarged prostate gland (dr
+PDF-p8-c1            |    8 | Nicotine Replacement                |  1048 | Nicotine Replacement Drug Interaction Information Ask a doctor before use if you: Γûá have high blood pressure not con- tr
+PDF-p8-c2            |    8 | Nighttime Sleep Aids                |   349 | Nighttime Sleep Aids (drugs for relief of occasional sleeplessness) Ask a doctor before use if you have: Γûá a breathing p
+PDF-p9-c1            |    9 | Pain Relievers                      |  1011 | Pain Relievers Drug Interaction Information Ask a doctor before taking if you: Γûá consume three or more alcohol- (drugs f
+PDF-p9-c2            |    9 | Stimulants                          |  1007 | Stimulants Drug Interaction Information Ask a doctor before taking if you: Γûá consume three or more alcohol- (drugs for t
+PDF-p9-c3            |    9 | Topical Acne Products               |    85 | Topical Acne Products (drugs for the treatment of acne) Drug Interaction Information:
+
+======================================================================
+FULL TEXT: Antihistamines
+======================================================================
+Antihistamines
+(drugs that temporarily relieve runny nose or reduce sneezing, itching of the nose or throat, and itchy watery eyes due to hay fever or other upper respiratory problems) pressure or depression Ask a doctor before use if you have: Γûá glaucoma or difficulty in urination due to an enlarged prostate gland Γûá breathing problems, such as emphysema, chronic bronchitis or asthma When using this product: Γûá alcohol, sedatives and tranquiliz- ers may increase drowsiness Γûá avoid alcoholic beverages Drug Interaction Information
+Drug Interaction Information:
+
+======================================================================
+FULL TEXT: Acid Reducers/H2 Blockers
+======================================================================
+chunk_id: PDF-p5-c1
+Acid Reducers/H2 Blockers
+R emember that different OTC drugs may contain the same active ingredient. If you are taking more than one OTC drug, pay attention to the active ingredients used in the products to avoid taking too much of a particular ingredient. Under certain circumstances ΓÇö such as if you are pregnant or breast-feeding ΓÇö you should talk to your doctor before you take any medicine. Also, make sure to know what ingredients are contained in the medicines you take to avoid possible allergic reactions. The following are examples of drug interaction warnings that you may see on certain OTC drug products. These examples do not include all of the warnings for the listed types of products and should not take the place of reading the actual product label. Drug Interaction Information For products containing cimetidine, ask a doctor or pharmacist before use if you are: Γûá taking theophylline (oral asthma (drugs that prevent or relieve heartburn associated with acid indigestion and sour stomach) drug), warfarin (blood thinning drug) or phenytoin (seizure drug) Ask a doctor or pharmacist before use if you are: Γûá allergic to milk or milk products (drugs for relief of acid indigestion, heartburn and/or sour stomach) if the product contains more than 5 grams lactose in a maximum daily dose Γûá taking a prescription drug Ask a doctor before use if you have: Γûá kidney disease
+Drug Interaction Information:
+

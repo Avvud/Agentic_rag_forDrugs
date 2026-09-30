@@ -1,0 +1,97 @@
+﻿.venv\Scripts\python.exe : INFO: Opened PDF 'Drug-Interactions--What-You-Should-Know-low-res.pdf' with 10 pages
+At line:1 char:1
++ .venv\Scripts\python.exe ingest.py 2>&1 | Out-File -Encoding utf8 scr ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (INFO: Opened PD...' with 10 pages:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+INFO: Prose chunks: 14
+INFO: Category chunks: 13
+INFO: Total chunks after filtering: 27
+INFO: Embedding 27 chunks with model 'gemini-embedding-001'...
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: HTTP Request: POST 
+https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+INFO: Embedding complete.
+INFO: Stored 27 chunks in ChromaDB collection 'drug_interactions' at './chroma_db'
+Traceback (most recent call last):
+  File "D:\projects\AI\Agentic rag\ingest.py", line 534, in <module>
+
+======================================================================
+INGESTION SUMMARY
+======================================================================
+  PDF: Drug-Interactions--What-You-Should-Know-low-res.pdf
+  Pages parsed: 10
+  Chunks created: 27
+  Embedding model: gemini-embedding-001
+  ChromaDB path: ./chroma_db
+======================================================================
+
+FULL CHUNK LIST:
+chunk_id             | page | section                             | first 150 chars
+------------------------------------------------------------------------------------------------------------------------
+PDF-p2-c1            |    2 | Drug Interactions Overview          | Drug Interactions T here are more opportunities today than ever before to learn about your health and to take better care of yourself. It is also more
+PDF-p2-c2            |    2 | Drug Interactions Overview          | the time to learn about drug interactions may be critical to your health. You can reduce the risk of potentially harmful drug interactions and side ef
+PDF-p2-c3            |    2 | Drug Interactions Overview          | entially harmful drug interactions and side effects with a little bit of knowledge and common sense. Drug interactions fall into three broad categorie
+PDF-p2-c4            |    2 | Drug Interactions Overview          | ndition interactions may occur when an existing medical condition makes certain drugs potentially harmful. For example, if you have high blood pressur
+PDF-p2-c5            |    2 | Drug Interactions Overview          | have high blood pressure you could experience an unwanted reaction if you take a nasal decongestant.
+PDF-p3-c1            |    3 | OTC Drug Labels                     | ver-the-counter (OTC) drug labels contain information about ingredients, uses, warnings and directions that is important to read and understand. The l
+    total = ingest()
+            ^^^^^^^^
+  File "D:\projects\AI\Agentic rag\ingest.py", line 509, in ingest
+    print(f"{c['chunk_id']:<20} | {c['page']:>4} | {c['section']:<35} | {preview}")
+  File "C:\Users\avvud\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u25a0' in position 116: character maps to <undefined>
