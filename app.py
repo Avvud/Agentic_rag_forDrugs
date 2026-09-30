@@ -18,6 +18,7 @@ import chromadb
 import config
 import ingest
 import agent
+import tools
 from models import AgentResult, PdfCitation, FdaLabelCitation, WebCitation
 
 # ---------------------------------------------------------------------------
