@@ -270,9 +270,10 @@ def openfda_label_lookup(drug_name: str, section: str = "drug_interactions") -> 
 
 
 def web_search(query: str, max_results: int = 4) -> list[dict] | dict:
-    """Search the web for drug interaction information. LAST RESORT.
+    """Search the web for medical drug information, drug identity, and drug interactions.
 
-    Use only after search_pdf and openfda_label_lookup fail.
+    Use for general drug overview/identification questions (e.g. 'what is amoxicillin?')
+    or when search_pdf and openfda_label_lookup do not contain a complete definition.
     Prefer results from official medical sites (fda.gov, nih.gov, medlineplus.gov, nhs.uk, who.int, cdc.gov).
 
     Args:
